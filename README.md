@@ -11,6 +11,9 @@ This app combines:
 
 All models run locally and offline.
 
+Base idea attribution:
+- Useful Video: `https://youtu.be/Q7mS1VHm3Yw?si=O4fFO3kcBROvb-XZ`
+
 ## Current Behavior
 
 - Overviews are sanitized to avoid empty/`NaN` values in UI and metadata.
