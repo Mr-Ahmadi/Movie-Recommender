@@ -79,6 +79,10 @@ python recommender.py
 Open:
 - `http://127.0.0.1:7860`
 
+## Screenshot
+
+![Movie Recommender UI](Screenshot.png)
+
 ## UI Guide
 
 - **Describe what you want** tab:

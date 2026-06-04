@@ -225,7 +225,7 @@ def load_zero_shot_pipeline():
 
 def load_movie_dataframe():
     df = pd.read_csv(CSV_PATH).fillna("")
-    df.set_index("id", inplace=True)
+    df.set_index("imdb_id", inplace=True)
     return df
 
 # ───────────────────────────────────────────────
