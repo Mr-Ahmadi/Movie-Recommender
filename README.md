@@ -2,6 +2,8 @@
 
 Hybrid movie recommender with a Gradio UI, local embeddings, and optional zero-shot reranking.
 
+![Movie Recommender UI](Screenshot.png)
+
 ## Overview
 
 This app combines:
@@ -78,10 +80,6 @@ python recommender.py
 
 Open:
 - `http://127.0.0.1:7860`
-
-## Screenshot
-
-![Movie Recommender UI](Screenshot.png)
 
 ## UI Guide
 
